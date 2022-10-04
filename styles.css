@@ -459,4 +459,13 @@ a{
     .card{
         width:calc(100% - 58rem);
     }
+    .box{
+        gap:200px;
+    }
+    .text>h1{
+        font-size:32px;
+    }
+    .text>p{
+        font-size:16px;
+    }
 }
