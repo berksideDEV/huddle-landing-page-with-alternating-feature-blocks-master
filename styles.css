@@ -456,6 +456,10 @@ a{
     }
 }
 @media screen and (min-width:1440px) {
+    .hero-left{
+        width:40rem;
+        
+    }
     .card{
         width:calc(100% - 58rem);
     }
